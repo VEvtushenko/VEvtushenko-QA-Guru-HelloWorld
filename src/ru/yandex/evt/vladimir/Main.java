@@ -8,5 +8,6 @@ public class Main {
         System.out.println("Hello World!");
         System.out.println("And you all");
         System.out.println("Add new line");
+        System.out.println("slow branch");
     }
 }
