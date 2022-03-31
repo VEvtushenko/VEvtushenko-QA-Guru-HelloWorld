@@ -9,4 +9,8 @@ public class Main {
         System.out.println("And you all");
         System.out.println("Add new line");
     }
+    
+    public static void another () {
+        System.out.println("Another metod");
+    }
 }
