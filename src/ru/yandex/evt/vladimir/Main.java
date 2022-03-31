@@ -10,4 +10,8 @@ public class Main {
         System.out.println("Add new line");
         System.out.println("slow branch");
     }
+    
+    public static void another () {
+        System.out.println("Another metod");
+    }
 }
